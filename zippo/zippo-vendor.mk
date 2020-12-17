@@ -1351,5 +1351,4 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
-    vendor.qti.hardware.capabilityconfigstore-V1.0-java \
-    manifest_android.hardware.drm@1.3-service.widevine
+    vendor.qti.hardware.capabilityconfigstore-V1.0-java

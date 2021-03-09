@@ -1134,4 +1134,4 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     WfdCommon \
     vendor.qti.hardware.capabilityconfigstore-V1.0-java \
-    manifest_android.hardware.drm@1.3-service.widevine
+    manifest_android.hardware.drm@1.4-service.widevine
